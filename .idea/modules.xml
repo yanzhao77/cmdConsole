@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/commandRecordTest1.iml" filepath="$PROJECT_DIR$/commandRecordTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dcdConsole.iml" filepath="$PROJECT_DIR$/dcdConsole.iml" />
     </modules>
   </component>
 </project>
